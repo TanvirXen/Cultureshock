@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781393547425",
+    "firebase_url": "https://cultureshock-f11ad.firebaseio.com",
+    "project_id": "cultureshock-f11ad",
+    "storage_bucket": "cultureshock-f11ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781393547425:android:c7c184c4ac8d97b715e0e0",
+        "android_client_info": {
+          "package_name": "com.cultureshock.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781393547425-srqvlh8h81o1t81q5gbavf4bj4a2ps4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cultureshock.app",
+            "certificate_hash": "f4188ecfb3fdb53bcff091d0e4f5c8db691c0fec"
+          }
+        },
+        {
+          "client_id": "781393547425-386nel39imeejlbnge943l1a59bsmj29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZSW1Fx7yzmLd3TUIM_TH86BDJPxpHqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781393547425-386nel39imeejlbnge943l1a59bsmj29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

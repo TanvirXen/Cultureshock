@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">CultureShock</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="wback">Welcome Back</string>
+    <string name="notrg">Not Registered Yet?</string>
+    <string name="imgattr">imgattr</string>
+    <string name="fpass">Forgot Password?</string>
+    <string name="fname">Full Name</string>
+    <string name="contact">Contact Number</string>
+    <string name="exp_fest">Explore Festivals</string>
+    <string name="cpass">Confirm Password</string>
+    <string name="sampleloc">Dhaka, Bangladesh</string>
+    <string name="reg">REGISTRATION</string>
+    <string name="festival">FESTIVALS</string>
+    <string name="explore">EXPLORE</string>
+    <string name="country">BANGLADESH</string>
+    <string name="loading">Please Wait</string>
+    <string name="emailsent">A verification email has been sent to your Email. Please verify and continue to login.</string>
+    <string name="the_app_and_all_its_patents_are_intellectual_property_of_apt_a_subordinate_of_niil_the_application_provides_special_thanks_and_recognition_to_all_its_cultural_delegates">The app and all its patents are intellectual property of APT, a subordinate of NIIL. The application provides special thanks and recognition to all its cultural delegates. The data contained in CultureShock database are completely it\'s own resource by the research team.</string>
+    <string name="cultureshock">CULTURESHOCK ©</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="developers">Developers</string>
+    <string name="developer"><![CDATA[Adib Ahnaf (Full Stack and Execution)\nParthib Das Gupta (Head, Engineering Team)\nTanvir Ishtiaq (Engineering Team)\nKayeef Ifaz (Design & Marketing)\nSafwan Zaeem (Finances and Front End)]]></string>
+    <string name="credits">Credits</string>
+    <string-array name="country_arrays">
+        <item>Thailand</item>
+        <item>England</item>
+        <item>Qatar</item>
+        <item>Mexico</item>
+    </string-array>
+    <string-array name="explore_options">
+        <item>Language</item>
+        <item>Festivals</item>
+        <item>Architecture</item>
+        <item>Tourism Spots</item>
+        <item>Art</item>
+        <item>Cuisine</item>
+        <item>Folklore</item>
+        <item>Literature</item>
+        <item>Music</item>
+        <item>Cinema</item>
+        <item>Performing Arts</item>
+        <item>Religion</item>
+        <item>Historical Markers</item>
+        <item>Museums, Libraries, Gallery</item>
+        <item>Sports</item>
+        <item>Media</item>
+        <item>Symbols</item>
+        <item>Anti Shock Guide</item>
+    </string-array>
+
+
+</resources>
